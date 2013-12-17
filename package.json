@@ -1,5 +1,5 @@
 {
-  "name": "mdc",
+  "name": "mdwc",
   "description": "count markdown text chars by section.",
   "version": "0.0.0",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "bin": {
-    "mdc": "bin/mdc"
+    "mdwc": "bin/mdwc"
   },
   "author": "Fujisawa Shin",
   "license": "BSD",

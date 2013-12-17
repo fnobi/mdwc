@@ -1,4 +1,4 @@
-mdc
+mdwc
 ==============
 
 count markdown text chars by section.
@@ -8,19 +8,19 @@ count markdown text chars by section.
 ### from npm
 
 ```
-npm -g install mdc
+npm -g install mdwc
 ```
 
 ### from github
 
 ```
-git clone git://github.com/fujisawa-shin/mdc.git
-cd mdc
+git clone git://github.com/fujisawa-shin/mdwc.git
+cd mdwc
 npm install -g .
 ```
 
 ## usage
 
 ```
-mdc filename.md
+mdwc filename.md
 ```

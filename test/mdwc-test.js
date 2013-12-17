@@ -2,7 +2,7 @@ var assert = require('chai').assert;
 
 var countMarkdown = require('../lib/countMarkdown');
 
-describe('mdc', function () {
+describe('mdwc', function () {
     it('count section chars', function () {
         var result = countMarkdown('test/samples/sample1.md');
         assert.equal(result.sections.length, 4);

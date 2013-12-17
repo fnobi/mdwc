@@ -1,1 +1,1 @@
-module.exports = require('./lib/mdc');
+module.exports = require('./lib/mdwc');
