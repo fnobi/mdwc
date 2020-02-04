@@ -12,8 +12,9 @@
   "author": "Fujisawa Shin",
   "license": "BSD",
   "dependencies": {
-    "optimist": "~0.5.2",
-    "colors": "~0.6.1"
+    "clipboardy": "^2.1.0",
+    "colors": "~0.6.1",
+    "optimist": "~0.5.2"
   },
   "devDependencies": {
     "chai": "~1.6.1",
