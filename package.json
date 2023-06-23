@@ -12,7 +12,7 @@
   "author": "Fujisawa Shin",
   "license": "BSD",
   "dependencies": {
-    "clipboardy": "^2.1.0",
+    "clipboardy": "^3.0.0",
     "colors": "~0.6.1",
     "optimist": "~0.5.2"
   },
